@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Final_Level/1.0.0": {
+        "dependencies": {
+          "FileOp": "1.0.0"
+        },
+        "runtime": {
+          "Final_Level.dll": {}
+        }
+      },
+      "FileOp/1.0.0": {
+        "runtime": {
+          "FileOp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final_Level/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileOp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

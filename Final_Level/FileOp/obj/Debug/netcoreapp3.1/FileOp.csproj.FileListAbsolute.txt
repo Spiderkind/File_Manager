@@ -1,0 +1,9 @@
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\obj\Debug\netcoreapp3.1\FileOp.AssemblyInfoInputs.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\obj\Debug\netcoreapp3.1\FileOp.AssemblyInfo.cs
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\obj\Debug\netcoreapp3.1\FileOp.csproj.CoreCompileInputs.cache
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\bin\Debug\netcoreapp3.1\FileOp.deps.json
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\bin\Debug\netcoreapp3.1\FileOp.dll
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\bin\Debug\netcoreapp3.1\FileOp.pdb
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\obj\Debug\netcoreapp3.1\FileOp.dll
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\obj\Debug\netcoreapp3.1\FileOp.pdb
+C:\Users\SpYDeR\Documents\ДО\GeekBrains\Д3\Final_Level\FileOp\obj\Debug\netcoreapp3.1\FileOp.csprojAssemblyReference.cache
